@@ -13,7 +13,7 @@
 
 ## Deskribapena 📝
 
-Proiektu honetan web orrialde bat garatu dugu PHP-n, datu base bat behar duena ondo funtzionatzeko. Web orrialdea iragarki ezberdinak erakutsiko ditu eta erabiltzaileek haiekin interaktuatu ahal izango dute.
+Tradespot iragarkiak ikusteko, igotzeko eta ezabatzeko webgunea da. Webgune honten erabiltzale bat sortu eta iragarki gogokoenak gorde ahal daitezke eta zure iragarki pertsonalizatuak sortu.
 
 ## Instalazioa 🚀
 
