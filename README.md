@@ -44,16 +44,13 @@ Tradespot iragarkiak ikusteko, igotzeko eta ezabatzeko webgunea da. Webgune hont
 
 ## Web orrialdearen linka 🔗
 
-http://ec2-54-162-128-106.compute-1.amazonaws.com/erronka1/
-
-> [!WARNING]
-> Link hau iada ez du funtzionatzen. Barkatu eragozpenengatik.
+https://tradespot-tradespot.vercel.app
 
 ## Galeria 🖼
 ### Bideoa: 🎥
 <div align="center">
 
-<!-- Bideoa -->
+https://github.com/Aritz-Garcia/Tradespot/assets/73273260/48c97f4d-f03a-4b4b-afce-23660f51006d
 
 </div>
 
